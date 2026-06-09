@@ -1,0 +1,202 @@
+EMPLOYEE PAY REPORT
+==============================
+ID: 439825
+Name: Alice
+Total Pay: $51,500.00
+Team: Team_A
+--------------------
+ID: 702415
+Name: Bob
+Total Pay: $52,530.00
+Team: Team_A
+--------------------
+ID: 601234
+Name: Charlie
+Total Pay: $46,350.00
+Team: Team_C
+--------------------
+ID: 834567
+Name: David
+Total Pay: $73,500.00
+Team: Team_A
+--------------------
+ID: 195678
+Name: Eva
+Total Pay: $57,200.00
+Team: Team_C
+--------------------
+ID: 936428
+Name: Frank
+Total Pay: $50,400.00
+Team: Team_B
+--------------------
+ID: 308712
+Name: Grace
+Total Pay: $67,600.00
+Team: Team_A
+--------------------
+ID: 574896
+Name: Hank
+Total Pay: $46,350.00
+Team: Team_C
+--------------------
+ID: 489356
+Name: Jack
+Total Pay: $65,720.00
+Team: Team_A
+--------------------
+ID: 671239
+Name: Kate
+Total Pay: $50,470.00
+Team: Team_B
+--------------------
+ID: 802315
+Name: Liam
+Total Pay: $61,480.00
+Team: Team_C
+--------------------
+ID: 345672
+Name: Mia
+Total Pay: $57,200.00
+Team: Team_B
+--------------------
+ID: 918245
+Name: Nina
+Total Pay: $70,350.00
+Team: Team_B
+--------------------
+ID: 123756
+Name: Oliver
+Total Pay: $58,800.00
+Team: Team_C
+--------------------
+ID: 986521
+Name: Penny
+Total Pay: $48,880.00
+Team: Team_A
+--------------------
+ID: 573814
+Name: Quinn
+Total Pay: $71,070.00
+Team: Team_B
+--------------------
+ID: 249108
+Name: Ruby
+Total Pay: $53,000.00
+Team: Team_C
+--------------------
+ID: 605793
+Name: Sam
+Total Pay: $55,620.00
+Team: Team_A
+--------------------
+ID: 734916
+Name: Tina
+Total Pay: $67,980.00
+Team: Team_B
+--------------------
+ID: 128347
+Name: Zane
+Total Pay: $62,540.00
+Team: Team_C
+--------------------
+ID: 670912
+Name: Ava
+Total Pay: $53,040.00
+Team: Team_A
+--------------------
+ID: 385672
+Name: Ben
+Total Pay: $65,920.00
+Team: Team_B
+--------------------
+ID: 594310
+Name: Chloe
+Total Pay: $55,120.00
+Team: Team_C
+--------------------
+ID: 710294
+Name: Dylan
+Total Pay: $70,350.00
+Team: Team_A
+--------------------
+ID: 682134
+Name: Emma
+Total Pay: $57,750.00
+Team: Team_B
+--------------------
+ID: 419867
+Name: Gwen
+Total Pay: $72,800.00
+Team: Team_A
+--------------------
+ID: 359084
+Name: Hugo
+Total Pay: $61,480.00
+Team: Team_B
+--------------------
+ID: 831672
+Name: Isla
+Total Pay: $50,470.00
+Team: Team_C
+--------------------
+ID: 475981
+Name: Jay
+Total Pay: $75,260.00
+Team: Team_A
+--------------------
+ID: 297654
+Name: Kylie
+Total Pay: $54,590.00
+Team: Team_B
+--------------------
+ID: 406725
+Name: Maya
+Total Pay: $74,160.00
+Team: Team_A
+--------------------
+ID: 894123
+Name: Nash
+Total Pay: $59,360.00
+Team: Team_B
+--------------------
+ID: 563802
+Name: Olivia
+Total Pay: $49,350.00
+Team: Team_C
+--------------------
+ID: 798145
+Name: Pax
+Total Pay: $70,720.00
+Team: Team_A
+--------------------
+ID: 156309
+Name: Quincy
+Total Pay: $62,400.00
+Team: Team_B
+--------------------
+ID: 283671
+Name: Rose
+Total Pay: $65,920.00
+Team: Team_C
+--------------------
+ID: 650731
+Name: Seth
+Total Pay: $60,420.00
+Team: Team_A
+--------------------
+ID: 820364
+Name: Uma
+Total Pay: $65,100.00
+Team: Team_C
+--------------------
+ID: 978241
+Name: Wyatt
+Total Pay: $67,980.00
+Team: Team_B
+--------------------
+ID: 462318
+Name: Zack
+Total Pay: $63,600.00
+Team: Team_C
+--------------------

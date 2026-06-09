@@ -1,15 +1,14 @@
 def main():
-    #open a file named philosophers.txt
-    outfile = 
+    
+    outfile = open('philosophers.txt', 'w')
+
+    
+    outfile.write('John Locke\n')
+    outfile.write('David Hume\n')
+    outfile.write('Edmund Burke\n')
+
+    
+    outfile.close()
 
 
-    #write the names of three philosophers to the file
-    #John Locke, David Hume and Edmund Burke
-
-
-
-    #close the file
-
-
-#call the main function
 main()
